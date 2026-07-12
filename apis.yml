@@ -18,6 +18,8 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/post-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/postholdings
   - type: Website
@@ -32,6 +34,8 @@ common:
     url: https://www.postholdings.com/careers/
   - type: ContactUs
     url: https://www.postholdings.com/contact-us/
+  - type: Blog
+    url: https://www.postholdings.com/feed/
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
