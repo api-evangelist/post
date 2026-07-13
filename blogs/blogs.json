@@ -1,0 +1,21 @@
+{
+  "repo": "post",
+  "feeds": [
+    {
+      "source": "https://www.postholdings.com/feed/",
+      "feed_url": "https://www.postholdings.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
+      "source": "https://www.postholdings.com/contact-us/",
+      "feed_url": "https://www.postholdings.com/contact-us/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 18
+}
