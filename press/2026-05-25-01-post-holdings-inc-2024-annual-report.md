@@ -1,7 +1,9 @@
 ---
 title: Post Holdings, Inc. 2024 Annual Report
 url: https://www.postholdings.com/wp-content/uploads/2024/12/Post-Holdings-2024-Annual-Report-FINAL.pdf
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Post Holdings" press release artificial intelligence'
 position: 1
 source: serpapi-google

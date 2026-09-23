@@ -1,7 +1,9 @@
 ---
 title: Koley Jessen Represents Perfection Pet Foods in $235M ...
 url: https://www.koleyjessen.com/insights/news/perfection-pet-foods-sale-to-post-holdings
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Post Holdings" press release artificial intelligence'
 position: 5
 source: serpapi-google

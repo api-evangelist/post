@@ -1,7 +1,9 @@
 ---
 title: Privacy Notice
 url: https://www.postholdings.com/privacy-notice/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Post Holdings" press release artificial intelligence'
 position: 4
 source: serpapi-google
